@@ -41,9 +41,9 @@
   
 
 <p align=center> <font size=5> Scientific Papers </font> </p>
-1. [Rapid identification of methicillin-resistant _Staphylococcus aureus_ using MALDI-TOF MS and machine learning from over 20,000 clinical isolates](https://journals.asm.org/doi/pdf/10.1128/spectrum.00483-22)
-1. [Direct prediction of ceftazidime-resistant _Stenotrophomonas maltophilia_ from routine MALDI-TOF mass spectra using machine learning](https://www.journalofinfection.com/article/S0163-4453(22)00536-9/fulltext)
-1. [Evaluation of the Rapid Sepsityper protocol and specific MBT-Sepsityper module for the identification of bacteremia and fungemia using Bruker Biotyper MALDI-TOF MS](https://www.sciencedirect.com/science/article/pii/S1684118222001037)
+1. [Rapid identification of methicillin-resistant _Staphylococcus aureus_ using MALDI-TOF MS and machine learning from over 20,000 clinical isolates](https://journals.asm.org/doi/pdf/10.1128/spectrum.00483-22)  
+1. [Direct prediction of ceftazidime-resistant _Stenotrophomonas maltophilia_ from routine MALDI-TOF mass spectra using machine learning](https://www.journalofinfection.com/article/S0163-4453(22)00536-9/fulltext)  
+1. [Evaluation of the Rapid Sepsityper protocol and specific MBT-Sepsityper module for the identification of bacteremia and fungemia using Bruker Biotyper MALDI-TOF MS](https://www.sciencedirect.com/science/article/pii/S1684118222001037)  
 
 
 
@@ -51,7 +51,7 @@
 
 <div align=center>
 <iframe 
-        width="100%"
+        height="100%"
         src="https://www.youtube-nocookie.com/embed/1Tmy6keTMm0" 
         title="YouTube video player" 
         frameborder="0" 
