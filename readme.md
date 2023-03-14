@@ -32,8 +32,8 @@ Thank you for your interest in astai - **we look forward to working with you to 
 ## Rapid MDROs Prediction Demo 
 
 <iframe 
-        width="512" 
-        height="384" 
+        width="374" 
+        height="210" 
         src="https://www.youtube-nocookie.com/embed/1Tmy6keTMm0" 
         title="YouTube video player" 
         frameborder="0" 
