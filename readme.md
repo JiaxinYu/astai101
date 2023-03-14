@@ -18,7 +18,7 @@
 
 
 Supported by leading organisations  
-<img src="src/cmuh.jpeg" alt="" width="270" height="90"/>&nbsp;&nbsp;&nbsp; <img src="src/ntuhyl.png" alt="" width="90" height="90" />&nbsp;&nbsp;&nbsp; <img src="src/fyh.jpeg" alt="" width="90" height="90" />&nbsp;&nbsp;&nbsp; <img src="src/kmuhlogo.gif" alt="" width="90" height="90" />
+<img src="src/cmuh.jpeg" alt="" width="240" height="100"/>&nbsp;&nbsp;&nbsp; <img src="src/ntuhyl.png" alt="" width="100" height="100" />&nbsp;&nbsp;&nbsp; <img src="src/fyh.jpeg" alt="" width="100" height="100" />&nbsp;&nbsp;&nbsp; <img src="src/kmuhlogo.gif" alt="" width="100" height="100" />
         
         
 
