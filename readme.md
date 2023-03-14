@@ -49,6 +49,7 @@
 
 ## <p align=center> Rapid MDROs Prediction Demo </p>
 
+<div align=center>
 <iframe 
         src="https://www.youtube-nocookie.com/embed/1Tmy6keTMm0" 
         title="YouTube video player" 
@@ -57,6 +58,7 @@
         allowfullscreen
 >
 </iframe>
+</div>
 
 
 
