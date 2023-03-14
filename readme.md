@@ -3,6 +3,18 @@
 
 ## Rapid MDROs Prediction Demo 
 
-<video src='https://user-images.githubusercontent.com/9447954/225020255-57aef4f0-06cb-444d-91d4-3d62699890c4.mp4' width=1280/>
+
+
+<iframe 
+        width="560" 
+        height="315" 
+        src="https://www.youtube-nocookie.com/embed/1Tmy6keTMm0" 
+        title="YouTube video player" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+        allowfullscreen>
+</iframe>
+
+[![Watch the video](https://img.youtube.com/vi/1Tmy6keTMm0/maxresdefault.jpg)](https://youtu.be/1Tmy6keTMm0)
 
 
