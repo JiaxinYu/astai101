@@ -1,6 +1,6 @@
 
 # Welcome to astai!  
-<span style="color:blue;font-weight:700;font-size:40px">
+<span style="color:blue;font-weight:700;font-size:120px">
         
         At astai, 
         we are dedicated to developing and implementing clinically validated ML-based clinical decision support system 
