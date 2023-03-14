@@ -52,5 +52,4 @@
 
 
 
-## Contact Information
-E-Mail: innovcmuh@gmail.com 
+## contact us through **innovcmuh@gmail.com** 
