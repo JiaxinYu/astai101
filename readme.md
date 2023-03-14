@@ -43,8 +43,6 @@
 ## Rapid MDROs Prediction Demo 
 
 <iframe 
-        width="374" 
-        height="210" 
         src="https://www.youtube-nocookie.com/embed/1Tmy6keTMm0" 
         title="YouTube video player" 
         frameborder="0" 
