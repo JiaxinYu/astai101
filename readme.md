@@ -1,6 +1,12 @@
 
-# astai 
-At astai, we are dedicated to developing and implementing clinically validated ML-based clinical decision support system that save lives and reduce costs in healthcare, primarily targeting infectious diseases. We achive this by predicting the risk of drug-resistant bacteria through machine learning based MALDI-TOF MS pipelines. You save lives, let astai save your time.
+# Welcome to astai!  
+
+At astai, **we are dedicated to developing and implementing clinically validated ML-based clinical decision support system that save lives and reduce costs in healthcare**, primarily targeting infectious diseases. We achieve this by predicting the risk of drug-resistant bacteria through **machine learning based MALDI-TOF MS pipelines**. **You save lives, let astai save your time.**
+
+Our mission is to provide clinicians with **accurate and timely information that can help them make the best treatment decisions for their patients**. By doing so, **we hope to save lives and valuable time in the healthcare industry**. 
+
+Thank you for your interest in astai - **we look forward to working with you to transform the future of healthcare!**
+
 
 
 ## Rapid MDROs Prediction Demo 
