@@ -52,7 +52,6 @@
 <div align=center>
 <iframe 
         width="100%"
-        height="100%"
         src="https://www.youtube-nocookie.com/embed/1Tmy6keTMm0" 
         title="YouTube video player" 
         frameborder="0" 
