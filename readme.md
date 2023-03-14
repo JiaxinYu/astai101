@@ -6,8 +6,8 @@
 
 
 <iframe 
-        width="560" 
-        height="315" 
+        width="800" 
+        height="600" 
         src="https://www.youtube-nocookie.com/embed/1Tmy6keTMm0" 
         title="YouTube video player" 
         frameborder="0" 
@@ -15,11 +15,4 @@
         allowfullscreen
 >
 </iframe>
-
-
-
-
-
-[![Watch the video](https://img.youtube.com/vi/1Tmy6keTMm0/maxresdefault.jpg)](https://youtu.be/1Tmy6keTMm0)
-
 
