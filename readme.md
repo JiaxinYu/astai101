@@ -6,8 +6,8 @@
 
 
 <iframe 
-        width="800" 
-        height="600" 
+        width="1024" 
+        height="768" 
         src="https://www.youtube-nocookie.com/embed/1Tmy6keTMm0" 
         title="YouTube video player" 
         frameborder="0" 
