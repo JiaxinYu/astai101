@@ -1,4 +1,4 @@
-<a href="src/Untitled.jpg">
+<img src="src/Untitled.jpg" alt="" class="banner" />
 
 # Welcome to astai!  
 <span style="color:blue;font-weight:700;font-size:120px">
