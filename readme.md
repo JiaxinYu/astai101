@@ -11,7 +11,7 @@ At astai, we are dedicated to developing and implementing clinically validated M
         src="https://www.youtube-nocookie.com/embed/1Tmy6keTMm0" 
         title="YouTube video player" 
         frameborder="0" 
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+        allow="accelerometer; autoplay; encrypted-media" 
         allowfullscreen
 >
 </iframe>
