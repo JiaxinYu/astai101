@@ -16,6 +16,7 @@
         Thank you for your interest in astai.
         Looking forward to working with you to transform the future of healthcare!
 
+<img src="src/astai.svg" alt="" class="logo" />
 
 <p align=center> <font size=6> Supported by leading organisations </font> </p>  
         
