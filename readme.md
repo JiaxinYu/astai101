@@ -28,7 +28,9 @@
 </font>
 
 <div align=center>
+        <a href="mailto:jiaxin.yu@cmu.edu.tw">
         <img src="src/astai.svg" alt="" class="logo" width="50%" height="50%"/>
+        </a>
 </div>
 
 <p align=center>
