@@ -40,7 +40,14 @@
 <div align=center>
         <img src="src/MSFT.png" alt="" width="160" height="100"/>&nbsp;&nbsp;&nbsp; <img src="src/cmuh.png" alt="" width="125" height="100"/>&nbsp;&nbsp;&nbsp; <img src="src/ntuhyl.png" alt="" width="100" height="100" />&nbsp;&nbsp;&nbsp; <img src="src/fyh.jpeg" alt="" width="100" height="100" />&nbsp;&nbsp;&nbsp; <img src="src/kmuhlogo.gif" alt="" width="100" height="100" />
 </div>
-        
+
+<br /> 
+<br />
+<p align=center><font size=6> News </font></p>
+
+- [Microsoft Stories Asia - Inside Taiwan’s ‘AI hospital of the future’](https://news.microsoft.com/apac/features/inside-taiwans-ai-hospital-of-the-future/)
+- [ASTAI X Microsoft Azure](https://news.microsoft.com/zh-tw/azure-ai-bacteria/)
+
 <br />        
 <br />
   
@@ -70,9 +77,19 @@
                 frameborder="0" 
                 allow="accelerometer; autoplay; encrypted-media" 
                 allowfullscreen
-        >
-        </iframe>
+        ></iframe>
+        
+        <iframe 
+                height="150%" 
+                src="https://www.youtube.com/embed/68TiBodFlbY" 
+                title="YouTube video player" 
+                frameborder="0" 
+                allow="accelerometer; autoplay; encrypted-media" 
+                allowfullscreen
+        ></iframe>
 </div>
+
+
         
 <br />
 <br />       
