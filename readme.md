@@ -38,7 +38,7 @@
 </p>  
         
 <div align=center>
-        <img src="src/MSFT.png" alt="" width="160" height="100"/>&nbsp;&nbsp;&nbsp; <img src="src/cmuh.jpeg" alt="" width="220" height="100"/>&nbsp;&nbsp;&nbsp; <img src="src/ntuhyl.png" alt="" width="100" height="100" />&nbsp;&nbsp;&nbsp; <img src="src/fyh.jpeg" alt="" width="100" height="100" />&nbsp;&nbsp;&nbsp; <img src="src/kmuhlogo.gif" alt="" width="100" height="100" />
+        <img src="src/MSFT.png" alt="" width="160" height="100"/>&nbsp;&nbsp;&nbsp; <img src="src/cmuh.jpeg" alt="" width="110" height="100"/>&nbsp;&nbsp;&nbsp; <img src="src/ntuhyl.png" alt="" width="100" height="100" />&nbsp;&nbsp;&nbsp; <img src="src/fyh.jpeg" alt="" width="100" height="100" />&nbsp;&nbsp;&nbsp; <img src="src/kmuhlogo.gif" alt="" width="100" height="100" />
 </div>
         
 <br />        
@@ -77,7 +77,7 @@
 <br />
 <br />       
 
-<p align=center> <font size=6> Scientific Papers </font> </p>
+<p align=center> <font size=6> Our Scientific Publications </font> </p>
         
 1. [Rapid identification of methicillin-resistant _Staphylococcus aureus_ using MALDI-TOF MS and machine learning from over 20,000 clinical isolates](https://journals.asm.org/doi/pdf/10.1128/spectrum.00483-22)  
 1. [Direct prediction of ceftazidime-resistant _Stenotrophomonas maltophilia_ from routine MALDI-TOF mass spectra using machine learning](https://www.journalofinfection.com/article/S0163-4453(22)00536-9/fulltext)  
