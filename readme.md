@@ -16,11 +16,17 @@
         Thank you for your interest in astai.
         Looking forward to working with you to transform the future of healthcare!
 
-<img src="src/astai.svg" alt="" class="logo" />
+<div align=center>
+        <img src="src/astai.svg" alt="" class="logo" width="50%" height="50%"/>
+</div>
 
-<p align=center> <font size=6> Supported by leading organisations </font> </p>  
+<p align=center>
+        <font size=4> Supported by leading organisations </font> 
+</p>  
         
-<div align=center><img src="src/MSFT.png" alt="" width="160" height="100"/>&nbsp;&nbsp;&nbsp; <img src="src/cmuh.jpeg" alt="" width="220" height="100"/>&nbsp;&nbsp;&nbsp; <img src="src/ntuhyl.png" alt="" width="100" height="100" />&nbsp;&nbsp;&nbsp; <img src="src/fyh.jpeg" alt="" width="100" height="100" />&nbsp;&nbsp;&nbsp; <img src="src/kmuhlogo.gif" alt="" width="100" height="100" /></div>
+<div align=center>
+        <img src="src/MSFT.png" alt="" width="160" height="100"/>&nbsp;&nbsp;&nbsp; <img src="src/cmuh.jpeg" alt="" width="220" height="100"/>&nbsp;&nbsp;&nbsp; <img src="src/ntuhyl.png" alt="" width="100" height="100" />&nbsp;&nbsp;&nbsp; <img src="src/fyh.jpeg" alt="" width="100" height="100" />&nbsp;&nbsp;&nbsp; <img src="src/kmuhlogo.gif" alt="" width="100" height="100" />
+</div>
         
 <br />        
 <br />
