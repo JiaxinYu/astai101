@@ -72,4 +72,4 @@
 <br />
 <br />
 
-<p align=center> <font color=blue size=6> contact email: innovcmuh@gmail.com </font> </p>
+<p align=center> <font color=blue size=6> contact email: jiaxin.yu@cmu.edu.tw </font> </p>
