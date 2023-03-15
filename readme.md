@@ -84,4 +84,8 @@
 <br />
 <br />
 
-<p align=center> <font color=blue size=6> [contact us](mailto:jiaxin.yu@cmu.edu.tw) </font> </p>
+<p align=center> 
+        <font color=blue size=6> 
+                <p><a href="mailto:jiaxin.yu@cmu.edu.tw">contact us</a></p>
+        </font> 
+</p>
