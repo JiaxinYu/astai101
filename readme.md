@@ -1,20 +1,29 @@
 <img src="src/Untitled.jpg" alt="" class="banner" />
 
-<p align=center> <font color=gray size=36> Welcome to astai! </font> </p>   
-<span style="color:blue;font-weight:700;font-size:120px">
-        
-        At astai, 
-        We are dedicated to developing and implementing validated ML-based clinical decision support system 
-        That save lives and reduce costs in healthcare. 
-        We achieve this by predicting the risk of drug-resistant bacteria through ML-based MALDI-TOF MS pipelines. 
-        You save lives, let astai save your time.
+<p align=center> <font color=gray size=36> Welcome to astai </font> </p> 
 
-        Our mission is to provide clinicians with accurate and timely information 
-        That can help them make the best treatment decisions for their patients.  
-        We hope to save lives and valuable time in the healthcare industry. 
-
-        Thank you for your interest in astai.
-        Looking forward to working with you to transform the future of healthcare!
+<font color=gray size=4>  
+        At astai,  
+        <br /> 
+        We are dedicated to developing and implementing validated ML-based clinical decision support system  
+        <br />
+        That save lives and reduce costs in healthcare.  
+        <br />
+        We achieve this by predicting the risk of drug-resistant bacteria through ML-based MALDI-TOF MS pipelines.  
+        <br />
+        You save lives, let astai save your time.  
+        <br />
+        <br />
+        Our mission is to provide clinicians with accurate and timely information  
+        <br />
+        That can help them make the best treatment decisions for their patients.   
+        <br />
+        We hope to save lives and valuable time in the healthcare industry.  
+        <br />   
+        <br />
+        Thank you for your interest in astai.  
+        Looking forward to working with you to transform the future of healthcare!  
+</font>
 
 <div align=center>
         <img src="src/astai.svg" alt="" class="logo" width="50%" height="50%"/>
