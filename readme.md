@@ -1,6 +1,8 @@
 <img src="src/Untitled.jpg" alt="" class="banner" />
 
-<p align=center> <font color=gray size=36> Welcome to astai </font> </p> 
+<p align=center> 
+        <font color=gray size=36> welcome to astai </font> 
+</p> 
 
 <font color=gray size=4>  
         At astai,  
