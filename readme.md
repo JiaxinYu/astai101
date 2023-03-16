@@ -24,6 +24,7 @@
         <br />   
         <br />
         Thank you for your interest in astai.  
+        <br />
         Looking forward to working with you to transform the future of healthcare!  
 </font>
 
