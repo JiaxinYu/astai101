@@ -68,7 +68,7 @@
 <br />  
 <br />  
 
-<p align=center> <font size=6> Rapid MDROs Prediction Demo </font> </p>
+<p align=center> <font size=6> MDROs Prediction </font> </p>
         
 <div align=center>
         <iframe 
