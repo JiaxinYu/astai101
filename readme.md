@@ -84,7 +84,7 @@
 <br />
 <br />       
 
-<p align=center> <font size=6> Our Scientific Publications </font> </p>
+<p align=center> <font size=6> Scientific Publications </font> </p>
         
 1. [Rapid identification of methicillin-resistant _Staphylococcus aureus_ using MALDI-TOF MS and machine learning from over 20,000 clinical isolates](https://journals.asm.org/doi/pdf/10.1128/spectrum.00483-22)  
 1. [Direct prediction of ceftazidime-resistant _Stenotrophomonas maltophilia_ from routine MALDI-TOF mass spectra using machine learning](https://www.journalofinfection.com/article/S0163-4453(22)00536-9/fulltext)  
