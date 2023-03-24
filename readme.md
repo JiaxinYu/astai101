@@ -86,9 +86,9 @@
 
 <p align=center> <font size=6> Scientific Publications </font> </p>
         
-1. [Rapid identification of methicillin-resistant _Staphylococcus aureus_ using MALDI-TOF MS and machine learning from over 20,000 clinical isolates](https://journals.asm.org/doi/pdf/10.1128/spectrum.00483-22)  
-1. [Direct prediction of ceftazidime-resistant _Stenotrophomonas maltophilia_ from routine MALDI-TOF mass spectra using machine learning](https://www.journalofinfection.com/article/S0163-4453(22)00536-9/fulltext)  
-1. [Evaluation of the Rapid Sepsityper protocol and specific MBT-Sepsityper module for the identification of bacteremia and fungemia using Bruker Biotyper MALDI-TOF MS](https://www.sciencedirect.com/science/article/pii/S1684118222001037)  
+1. [Yu, J., Tien, N., Liu, Y. C., Cho, D. Y., Chen, J. W., Tsai, Y. T., Huang, Y. C., Chao, H. J., & Chen, C. J. (2022). Rapid Identification of Methicillin-Resistant Staphylococcus aureus Using MALDI-TOF MS and Machine Learning from over 20,000 Clinical Isolates. Microbiology spectrum, 10(2), e0048322. https://doi.org/10.1128/spectrum.00483-22](https://journals.asm.org/doi/pdf/10.1128/spectrum.00483-22)  
+1. [Yu, J., Lin, H. H., Tseng, K. H., Tien, N., Hsueh, P. R., & Cho, D. Y. (2023). Direct prediction of ceftazidime-resistant Stenotrophomonas maltophilia from routine MALDI-TOF mass spectra using machine learning. The Journal of infection, 86(2), e58–e60. https://doi.org/10.1016/j.jinf.2022.09.005](https://www.journalofinfection.com/article/S0163-4453(22)00536-9/fulltext)  
+1. [Lin, H. H., Tseng, K. H., Tien, N., Lin, Y. T., Yu, J., Hsueh, P. R., & Cho, D. Y. (2022). Evaluation of the Rapid Sepsityper protocol and specific MBT-Sepsityper module for the identification of bacteremia and fungemia using Bruker Biotyper MALDI-TOF MS. Journal of microbiology, immunology, and infection = Wei mian yu gan ran za zhi, 55(6 Pt 2), 1330–1333. https://doi.org/10.1016/j.jmii.2022.07.005](https://www.sciencedirect.com/science/article/pii/S1684118222001037)  
 
 <br />
 <br />
