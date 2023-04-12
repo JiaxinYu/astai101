@@ -7,25 +7,15 @@
 <font color=gray size=4>  
         At astai,  
         <br /> 
-        We are dedicated to developing and implementing validated ML-based clinical decision support system  
-        <br />
-        That save lives and reduce costs in healthcare.  
-        <br />
-        We achieve this by predicting the risk of drug-resistant bacteria through ML-based MALDI-TOF MS pipelines.  
+        We are dedicated to developing and implementing validated ML-based clinical decision support system that save lives and reduce costs in healthcare. We achieve this by predicting the risk of drug-resistant bacteria through ML-based MALDI-TOF MS pipelines.  
         <br />
         You save lives, let astai save your time.  
         <br />
         <br />
-        Our mission is to provide clinicians with accurate and timely information  
-        <br />
-        That can help them make the best treatment decisions for their patients.   
-        <br />
-        We hope to save lives and valuable time in the healthcare industry.  
+        Our mission is to provide clinicians with accurate and timely information that can help them make the best treatment decisions for their patients. We hope to save lives and valuable time in the healthcare industry.  
         <br />   
         <br />
-        Thank you for your interest in astai.  
-        <br />
-        Looking forward to working with you to transform the future of healthcare!  
+        Thank you for your interest in astai. Looking forward to working with you to transform the future of healthcare!  
 </font>
 
 <div align=center>
