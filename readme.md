@@ -89,6 +89,6 @@
 
 <p align=center> 
         <font color=blue size=6> 
-                <a href="mailto:jiaxin.yu@cmu.edu.tw">contact us</a>
+                <a href="mailto:jiaxinyu@astai.in">contact us</a>
         </font> 
 </p>
