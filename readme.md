@@ -33,7 +33,8 @@
         <img src="src/cmuh.png" alt="" width="125" height="100"/>&nbsp;&nbsp;&nbsp; 
         <img src="src/ntuhyl.png" alt="" width="100" height="100" />&nbsp;&nbsp;&nbsp; 
         <img src="src/fyh.png" alt="" width="100" height="100" />&nbsp;&nbsp;&nbsp; 
-        <img src="src/kmuhlogo.gif" alt="" width="100" height="100" />
+        <img src="src/kmuhlogo.gif" alt="" width="100" height="100" />&nbsp;&nbsp;&nbsp;
+        <img src="src/chimeilogo.gif" alt="" width="100" height="100" />&nbsp;&nbsp;&nbsp;
 </div>
 
 <br /> 
@@ -47,9 +48,10 @@
 <br />
   
 <p align=center><font size=6> Awards </font></p>
-### 2023
+
+### 2023  
 - [HIMSS - Davies Award](https://www.himss.org/resources/development-comprehensive-intelligent-anti-microbial-system-epochal-fast-and-digitally)  
-  
+
 ### 2022  
 - [National Healthcare Qulity Award - Smart Healthcare - Silver Medal](http://hqic.jct.org.tw/Default.aspx)
 - [National Innovation Award - Clinical Innovation](https://innoaward.taiwan-healthcare.org/award_detail.php?REFDOCTYPID=0mge2rck644mcfl0&num=1&typeId=0nimiz4bw6272nt9&REFDOCID=0rn6mh6qrcgfy0nq)  
