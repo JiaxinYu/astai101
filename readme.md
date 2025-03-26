@@ -7,17 +7,19 @@
 <font color=gray size=4>  
         At astai,  
         <br /> 
-        We are dedicated to developing and implementing validated ML-based clinical decision support system that save lives and reduce costs in healthcare. We achieve this by predicting the risk of drug-resistant bacteria through ML-based MALDI-TOF MS pipelines.  
+        We are committed to developing and deploying evidence-based, AI-powered clinical decision support systems that enhance patient outcomes and streamline healthcare costs. By leveraging machine learning to predict the risk of antibiotic-resistant bacteria through advanced MALDI-TOF MS pipelines, we empower clinicians to make informed decisions.  
         <br />
         <br />
-        You save lives, let astai save your time. Our mission is to provide clinicians with accurate and timely information that can help them make the best treatment decisions for their patients. We hope to save lives and valuable time in the healthcare industry.  
+        You save lives; let Astai save you time. 
+        <br />
+        Our mission is to provide healthcare professionals with precise and timely insights, ensuring they can deliver optimal care to their patients. Together, we aim to save lives and valuable time in the healthcare sector.  
         <br />   
         <br />
         Thank you for your interest in astai. Looking forward to working with you to transform the future of healthcare!  
 </font>
 
 <div align=center>
-        <a href="mailto:jiaxinyu@astai.in">
+        <a href="mailto:jiaxinyu@itri.org.tw">
         <img src="src/astai.svg" alt="" class="logo" width="50%" height="50%"/>
         </a>
 </div>
@@ -45,7 +47,9 @@
 <br />
   
 <p align=center><font size=6> Awards </font></p>
-
+### 2023
+- [HIMSS - Davies Award](https://www.himss.org/resources/development-comprehensive-intelligent-anti-microbial-system-epochal-fast-and-digitally)  
+  
 ### 2022  
 - [National Healthcare Qulity Award - Smart Healthcare - Silver Medal](http://hqic.jct.org.tw/Default.aspx)
 - [National Innovation Award - Clinical Innovation](https://innoaward.taiwan-healthcare.org/award_detail.php?REFDOCTYPID=0mge2rck644mcfl0&num=1&typeId=0nimiz4bw6272nt9&REFDOCID=0rn6mh6qrcgfy0nq)  
@@ -78,6 +82,7 @@
 
 <p align=center> <font size=6> Scientific Publications </font> </p>
         
+1. [Impact of the implementation of the Intelligent Antimicrobial System (iAMS) on clinical outcomes among patients with bacteraemia caused by methicillin-resistant Staphylococcus aureus, 2024](https://www.sciencedirect.com/science/article/abs/pii/S0924857924000608)  
 1. [Direct prediction of carbapenem-resistant, carbapenemase-producing, and colistin-resistant Klebsiella pneumoniae isolates from routine MALDI-TOF mass spectra using machine learning and outcome evaluation. International journal of antimicrobial agents, 2023](https://www.sciencedirect.com/science/article/abs/pii/S0924857923000808) 
 1. [Rapid Identification of Methicillin-Resistant Staphylococcus aureus Using MALDI-TOF MS and Machine Learning from over 20,000 Clinical Isolates. Microbiology spectrum, 2022](https://journals.asm.org/doi/pdf/10.1128/spectrum.00483-22)  
 1. [Direct prediction of ceftazidime-resistant Stenotrophomonas maltophilia from routine MALDI-TOF mass spectra using machine learning. The Journal of infection, 2023](https://www.journalofinfection.com/article/S0163-4453(22)00536-9/fulltext)  
