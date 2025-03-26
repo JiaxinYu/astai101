@@ -34,7 +34,7 @@
         <img src="src/ntuhyl.png" alt="" width="100" height="100" />&nbsp;&nbsp;&nbsp; 
         <img src="src/fyh.png" alt="" width="100" height="100" />&nbsp;&nbsp;&nbsp; 
         <img src="src/kmuhlogo.gif" alt="" width="100" height="100" />&nbsp;&nbsp;&nbsp;
-        <img src="src/Chi_Mei_Medical_Center_logo.svg.png" alt="" width="100" height="100" />&nbsp;&nbsp;&nbsp;
+        <img src="src/Chi_Mei_Medical_Center_logo.svg.png" alt="" width="100" height="100" />
 </div>
 
 <br /> 
