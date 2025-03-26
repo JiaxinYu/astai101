@@ -12,10 +12,12 @@
         <br />
         You save lives; let Astai save you time. 
         <br />
+        <br />
         Our mission is to provide healthcare professionals with precise and timely insights, ensuring they can deliver optimal care to their patients. Together, we aim to save lives and valuable time in the healthcare sector.  
         <br />   
         <br />
-        Thank you for your interest in astai. Looking forward to working with you to transform the future of healthcare!  
+        Thank you for considering Astai. We look forward to collaborating with you to revolutionize the future of healthcare.
+        
 </font>
 
 <div align=center>
